@@ -1,3 +1,5 @@
+待增加Log.e(boolean b,String msg)针对当前页面的log开关
+
 Android provides an utility class to log messages. The android.util.Log provides all the required functions.
 
 Unfortunately, there is no easy way to alter the default log level from within your application or disable
